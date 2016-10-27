@@ -1,0 +1,52 @@
+/***************/
+/* YOUR STYLES */
+/***************/
+body {
+  background-color: whitesmoke;
+}
+
+/* Color Palette */
+.color-1 { background: #010104;}
+.color-2 { background: #333E40;}
+.color-3 { background: #CCB7AC;}
+.color-4 { background: #C6BCBD;}
+.color-5 { background: #D5D6D0;}       
+}
+
+
+/* Textures or Patterns*/
+
+.pattern-1 { background: url("../img/brushed.png");}
+.pattern-2 { background: url("../img/mochaGrunge.png");}
+.pattern-3 { background: url("../img/dark_embroidery.png");}
+.pattern-4 { background: url("../img/pink_rice.png");}
+.pattern-5 { background: url("../img/txture.png");}    
+
+/* Imagery */
+
+ 
+/* Icons */
+html .icon-1, html .icon-2, html .icon-3, html .icon-4, html .icon-5 {border: none}
+
+/* Navigation */
+a:link,
+a:visited { 
+color: #010104; 
+    text-transform: uppercase;
+}
+a:hover {
+    color: G;
+}
+a:active {
+    color:#CCB7AC;
+    background: #D5D6D0;}
+
+/* Typography */
+    
+.grid-9 {
+  font-family: 'Karla', sans-serif;
+}
+p, h2 {color: #333E40}
+
+
+
