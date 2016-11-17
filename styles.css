@@ -1,0 +1,35 @@
+
+
+.name {
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+    color: dimgray
+}
+
+
+h3 {
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+    color: dimgray;
+}
+
+.main-image {
+    width: 100%;
+    height: auto;   
+}
+
+
+.interests {
+    width: 200px;
+    height : auto;
+    border-radius: 50%;
+    
+}
+
+p {
+    text-align: center;
+    color: black;
+    padding: 5px 250px;
+    margin: 20px;
+    color: dimgray;
+}
