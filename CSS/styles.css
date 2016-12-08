@@ -48,12 +48,14 @@ header {
 .name {
     text-align: center;
     color: dimgray;
+    text-transform: uppercase;
 }
 
 
 h3 {
     text-align: center;
     color: dimgray;
+    text-transform: uppercase;
 }
 
 .main-image {
@@ -95,7 +97,7 @@ h4 {
 }
 
 
-/*  Column Layou  */
+/*  Column Layout  */
 
 .column-container {
     display: flex;
@@ -141,6 +143,23 @@ overflow: hidden;
 .resume-title h3 {
     text-align: left;
 }
+
+
+.description {
+    list-style-type: none;
+    text-align: left;
+}
+
+.resume-list li {
+    list-style-type: none;
+    text-align: left;
+}
+
+ ul li{
+    list-style-type: none;
+    padding: 10px;
+}
+
 
 
 @media screen and (min-width: 1000px) {
